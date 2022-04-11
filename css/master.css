@@ -800,6 +800,12 @@ FOR MOBILES
 .cursor,.cursor-two{
   display: none;
 }
+  .parallax-slider .img-container.one  {
+  background:url(../images/real\ romany3.jpg);
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
 .navigation-links{
   padding-right: 0px;
   padding-left: 0px;
@@ -935,6 +941,12 @@ FOR EXTRA SMALL DEVICES
     padding:20px;
     padding-left: 20px;
     padding-right: 20px;
+  }
+  .parallax-slider .img-container.one  {
+  background:url(../images/real\ romany3.jpg);
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
   }
   .navigation-links{
     padding-right: 0px;
@@ -1093,6 +1105,12 @@ FOR TABLETS
   position: absolute;
   margin: auto;
   border-radius: 8px;
+}
+  .parallax-slider .img-container.one  {
+  background:url(../images/real\ romany3.jpg);
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
 }
 .view-project{
   display: block;
